@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "375068513014",
+    "firebase_url": "https://flutterauth-2698d-default-rtdb.firebaseio.com",
+    "project_id": "flutterauth-2698d",
+    "storage_bucket": "flutterauth-2698d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375068513014:android:ae3dde67612e7e1af392d7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnbZOSqmHGOoyXZmuKjr05EdjM7l4A1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375068513014:android:857fa65aa409db43f392d7",
+        "android_client_info": {
+          "package_name": "com.pratik.chat_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnbZOSqmHGOoyXZmuKjr05EdjM7l4A1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
